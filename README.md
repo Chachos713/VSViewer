@@ -1,7 +1,4 @@
 # VSViewer
 A virtual viewer for the simple molecular interactions
 
-There are two versions of the code.
-
-The first was written in 2014 and was two programs adapted together.
-The second was a rewrite in 2016 and was written from scratch.
+The program was written in 2014 as a summer project. This was a combination of two programs to help make data visualization of molecular data easier.
